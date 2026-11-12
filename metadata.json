@@ -1,0 +1,6 @@
+{
+  "name": "Tech Quest: The Data Structures Adventure",
+  "description": "An interactive educational board game where players master real data structures through live algorithm visualizations, challenges, and dynamic gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
